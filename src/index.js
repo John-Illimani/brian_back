@@ -35,7 +35,7 @@ app.use(cors());
 
 app.use(
   cors({
-    origin: "https://boletines.deno.dev",
+    origin: "https://daza.deno.dev",
     credentials: true,
   })
 );
